@@ -22,6 +22,7 @@
   box-sizing: border-box;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 .app {
   width: 100%;
   height: 100vh;
@@ -47,6 +48,7 @@
   padding: 1rem;
 }
 
+/* Top  */
 
 .section {
   width: 100%;
@@ -100,7 +102,7 @@
 .icon>h3 {
   font-size: 15px;
   font-weight: 200;
-  text-transform: capitalize; 
+  text-transform: capitalize;
 }
 
 .temperature>h1 {
